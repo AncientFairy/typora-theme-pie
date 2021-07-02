@@ -289,7 +289,7 @@
 }
 
 :root {
-  --side-bar-bg-color: #272b40;
+  --side-bar-bg-color: #2b2b2b;
   --control-text-color: #999;
   --select-text-bg-color: #ff7a6679;
   --select-text-font-color: #f0f0f0;
@@ -299,7 +299,7 @@
   --item-hover-bg-color: #3b4057;
   --item-hover-text-color: #f0f0f0;
   --primary-color: #f22f27;
-  --bg-color: #272b40;
+  --bg-color: #2b2b2b;
   --window-border: #393550;
   --border-color: #393550;
   --text-color: #d9d9d9;
